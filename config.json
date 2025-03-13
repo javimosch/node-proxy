@@ -1,0 +1,7 @@
+[
+  {
+    "name": "rb-master-filestash",
+    "domain": "filestash:3005",
+    "proxyTo": "100.86.93.41:8335"
+  }
+]
